@@ -241,7 +241,7 @@ class App extends React.Component
                 .addTooltip('You do you.')
                 .addTooltip('Please do something.')
                 .addTooltip('I need my job.')
-                .addTooltip('Welcome to Automata Simulator!');
+                .addTooltip('Welcome to Flap.js!');
         }
 
         this._themeManager.setElement(document.getElementById('root'));

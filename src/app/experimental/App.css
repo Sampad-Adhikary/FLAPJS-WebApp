@@ -9,7 +9,7 @@
 
   --color-accent: #FFCD00; /*OFFICIAL UCSD COLOR*/
 
-  --color-primary: #006A96; /*OFFICIAL UCSD COLOR*/
+  --color-primary: hsl(196, 15%, 25%); /*OFFICIAL UCSD COLOR*/
   --color-primary-text: #F7F5E6;
   --color-primary-text-alt: #000000;
   --color-primary-lite: #5AA3C1;
