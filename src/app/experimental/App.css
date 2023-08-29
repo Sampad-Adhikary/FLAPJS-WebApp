@@ -4,7 +4,7 @@
 
   --color-graph-node: #FEE781;
   --color-graph-text: #000000;
-  --color-graph-text-alt: #FFFFFF;
+  --color-graph-text-alt: #000;
   --color-graph-select: #808080;
 
   --color-accent: #FFCD00; /*OFFICIAL UCSD COLOR*/
@@ -16,14 +16,14 @@
   --color-primary-dark: #005173;
 
   --color-surface: #747678;/*OFFICIAL UCSD COLOR*/
-  --color-surface-text: #FFFFFF;
+  --color-surface-text: #000;
   --color-surface-text-alt: #3D3D3D;
   --color-surface-active: #9A9C9F;
   --color-surface-lite: #AFA9A0;
   --color-surface-dark: #4D4D4D;
 
   --color-background: #000;
-  --color-background-text: #fff;
+  --color-background-text: #000;
   --color-background-lite: #CCCCCC;
   --color-background-active: #777777;
 
