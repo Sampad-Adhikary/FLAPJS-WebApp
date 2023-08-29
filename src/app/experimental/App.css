@@ -9,7 +9,7 @@
 
   --color-accent: #FFCD00; /*OFFICIAL UCSD COLOR*/
 
-  --color-primary: hsl(196, 15%, 25%); /*OFFICIAL UCSD COLOR*/
+  --color-primary: #364449; /*OFFICIAL UCSD COLOR*/
   --color-primary-text: #F7F5E6;
   --color-primary-text-alt: #000000;
   --color-primary-lite: #5AA3C1;
@@ -22,8 +22,8 @@
   --color-surface-lite: #AFA9A0;
   --color-surface-dark: #4D4D4D;
 
-  --color-background: #FFFFFF;
-  --color-background-text: #000000;
+  --color-background: #000;
+  --color-background-text: #fff;
   --color-background-lite: #CCCCCC;
   --color-background-active: #777777;
 
